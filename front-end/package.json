@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.16.0",
     "@data-ui/sparkline": "^0.0.84",
     "@data-ui/theme": "^0.0.84",
     "@testing-library/jest-dom": "^5.11.4",
